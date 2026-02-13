@@ -4,7 +4,7 @@
   "description": "CSV Price Comparison Tool for Replit",
   "main": "replit-server.js",
   "scripts": {
-    "start": "node replit-server.js"
+    "start": "node init && node replit-server.js"
   },
   "keywords": [
     "csv",
